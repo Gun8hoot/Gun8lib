@@ -1,0 +1,6 @@
+*.out
+*.a
+*.so
+*.o
+.clangd
+.asm-lsp.toml
